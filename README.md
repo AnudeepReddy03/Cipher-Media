@@ -7,15 +7,6 @@ An Image Steganography (hiding/encoding information(text) in an image) web app.
 
 <br>
 
-<h4>Frameworks used:</h4>
-<ul>
-  <li>
-    <a href="https://reactjs.org/">  React Js </a>
-   </li>
-   <li>
-    <a href="https://material-ui.com/"> Material UI Framework </a> 
-  </li>
-</ul>
 <h3>Working Diagram</h3>
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/2-72.png"></p>
