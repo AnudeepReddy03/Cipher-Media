@@ -17,7 +17,8 @@ An Image Steganography (hiding/encoding information(text) in an image) web app.
   </li>
 </ul>
 <h3>Working Diagram</h3>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/2-72.png">
+<p align="center">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/2-72.png"></p>
 
   <h3>LSB based Image steganography</h3>
     <p>  LSB-Steganography is a steganography technique in which we hide messages inside an image by replacing Least significant bit of image with the bits of message to be hidden.As the LSB is only changed, the human eys cannot detect the changes in it. </p>
